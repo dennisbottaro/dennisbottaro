@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dennisbottaro
 - 👀 I’m interested in Python programming, database development, reporting, 
-- 🌱 I’m currently learning Django and CSS
+- 🌱 I’m proficient with Django, HTML & CSS, Visual Basic, VB.Net, ASP, ASP.Net, JavaScript
 - 📫 You can reach me best by email at atomicfroman@gmail.com
 
 <!---
